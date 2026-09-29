@@ -1,0 +1,5 @@
+Python Developer
+
+We are looking for a Python developer with experience in Python, SQL, Git,
+REST API, machine learning, data analysis and Streamlit. Knowledge of
+natural language processing and web development is an advantage.
